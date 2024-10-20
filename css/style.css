@@ -7,7 +7,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap');
 /* start navigation */
 
-/* body {	
+ body {	
     margin: 0;
     padding: 0;
     background: rgb(230,230,230);
@@ -16,32 +16,7 @@
     font-family: 'Open Sans', sans-serif;
     font-size: 112.5%;
     line-height: 1.6em;
-  } */
-
-
-/* Dark theme ke liye background aur text color */
-body {
-  background-color: #121212; /* Dark background */
-  color: #ffffff; /* White text for readability */
-  margin: 0;
-  font-family: Arial, sans-serif;
-}
-
-header, main {
-  padding: 20px;
-}
-
-header {
-  background-color: #1f1f1f; /* Slightly lighter header */
-}
-
-.about {
-  background-color: #242424; /* Section ka bhi dark color */
-  padding: 10px;
-  border-radius: 8px;
-}
-
-
+  } 
 
 .header_area .main-menu .navbar>h2 {
     padding: 0 2rem 0 1rem;

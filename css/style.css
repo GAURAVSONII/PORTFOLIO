@@ -7,7 +7,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap');
 /* start navigation */
 
- body {	
+/*  body {	
     margin: 0;
     padding: 0;
     background: rgb(230,230,230);
@@ -16,7 +16,7 @@
     font-family: 'Open Sans', sans-serif;
     font-size: 112.5%;
     line-height: 1.6em;
-  } 
+  }  */
 
 .header_area .main-menu .navbar>h2 {
     padding: 0 2rem 0 1rem;
